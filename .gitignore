@@ -6,6 +6,5 @@
 # Не обрабатывать файл 
 img/Thumbs.db
 # Не обрабатывать файл DS_Store
-# img/.DS_Store
 .DS_Store
 /tmp
